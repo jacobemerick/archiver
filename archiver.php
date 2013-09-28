@@ -40,7 +40,7 @@ if ($archive_open_result === true)
         if (in_array($local_path, $ignore_file_list))
             continue;
         
-        if ($archive->addFile($file->getPathname(), $local_path) === true)
+        if ($archive->addFile($file->getPathname(), $local_path) === false)
             echo "Could not add a file: {$local_path}\n";
     }
     
