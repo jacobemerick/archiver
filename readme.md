@@ -34,3 +34,4 @@ v1.0 (2013-09-28)
 ------------------
  - Project at GitHub [jacobemerck/archiver](https://github.com/jacobemerick/archiver)
  - Jacob Emerick [@jpemeric](http://twitter.com/jpemeric) [jacobemerick.com](http://home.jacobemerick.com/)
+ - Blog post explaining details [archiving a directory](http://blog.jacobemerick.com/web-development/archiving-a-directory/)
